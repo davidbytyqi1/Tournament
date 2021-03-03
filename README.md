@@ -1,5 +1,6 @@
 # Tournament
- League schedule
+Problem: League schedule
+ 
 X is hosting a CS GO league with 16 teams participating and has these rules:
 1. The league will last exactly 15 weeks
 2. Each team will face each other team exactly once
