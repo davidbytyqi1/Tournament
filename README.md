@@ -10,7 +10,7 @@ X is hosting a CS GO league with 16 teams participating and has these rules:
 2. Each team will face each other team exactly once
 3. Each team will have a match every week
 4. Every week will have exactly 8 matches
-The first 5 weeks of the league have been set manually by the Gjirafa team, so this algorithm
+The first 5 weeks of the league have been set manually by the X team, so this algorithm
 will schedule weeks 6 to 15.
 Input format:
 
