@@ -1,10 +1,5 @@
 # Tournament
-X is providing you with a list of two problems
-The 1st problem is focused more on problem solving and your ability to find mathematical
-solutions.
-The 2nd problem focused on your knowledge about the full development cycle, so we are
-evaluating this solution based on all properties (front,mid and back)
-Problem 1: League schedule
+ League schedule
 X is hosting a CS GO league with 16 teams participating and has these rules:
 1. The league will last exactly 15 weeks
 2. Each team will face each other team exactly once
